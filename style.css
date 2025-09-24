@@ -15,10 +15,10 @@ nav{
     display: flex;
     justify-content: space-between;
     margin-top: 0px;
-    margin-left: 15%;
-    width: 60%;
+    width: 100%;
     position: fixed;
-    background: transparent;
+    background: white;
+    padding: 0 10%;
 }
 .logo img{
     height: 26px;
